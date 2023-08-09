@@ -5,30 +5,31 @@ Augmented Reality Space Book is an interactive and immersive educational experie
 ## Features
 
 - **Augmented Reality Ebook**: The planets pop up when the camera is placed on top of the corresponding page, allowing users to interact with 3D models of the planets by rotating and scaling them.
+![Screenshot 2023-08-09 at 2 49 46 PM](https://github.com/GaurangJotwani/AugmentedSpaceBook/assets/48160866/9fb11265-5ab7-45ad-9769-94626c880a7e)
 
 
 - **Audio Support**: Users can listen to the content of each page by tapping the audio button, making it accessible to a wider audience.
 
 
 
-https://media.github.khoury.northeastern.edu/user/13961/files/04c94e18-fe74-4fe2-bcd8-877e7026facf
-
 
 
 - **Interactive Experiences**: The project includes three additional AR experiences:
   - **Alien Attack Game**: Users can play an AR game where they control tanks to defend against invading aliens.
   
-  https://media.github.khoury.northeastern.edu/user/13961/files/51a3cf45-f861-4567-a4a9-71ce639b792e
+![Screenshot 2023-08-09 at 2 37 35 PM](https://github.com/GaurangJotwani/AugmentedSpaceBook/assets/48160866/07db9a4c-7027-41bd-b6b2-cd8dcf08cee7)
+
   
   - **Mars Rover Simulation**: Users can place a Mars rover on a ground plane and navigate it using a joystick on their phone.
   
-  
-https://media.github.khoury.northeastern.edu/user/13961/files/b4dd8eb8-2b59-40c5-939a-f89b124bd525
+  ![Screenshot 2023-08-09 at 2 45 00 PM](https://github.com/GaurangJotwani/AugmentedSpaceBook/assets/48160866/4f92349d-89a4-438b-9a55-ef7ff5101c55)
 
 
   - **Solar System Portal**: Users can place a portal on a ground plane, walk into it, and explore the solar system as if they were actually there.
-  
-  https://media.github.khoury.northeastern.edu/user/13961/files/bf6699cc-b608-4e98-8f58-784958cb176b
+
+https://github.com/GaurangJotwani/AugmentedSpaceBook/assets/48160866/00abdd95-2e37-481d-b9a8-aa1d65bb9b35
+
+
   
 ## Requirements
 
